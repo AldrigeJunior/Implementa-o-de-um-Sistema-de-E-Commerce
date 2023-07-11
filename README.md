@@ -15,16 +15,21 @@ Parte 1 : E-commerce MVP deployment
 
 - Executando o Terraform
 
-    terraform init
+    <p>terraform init<p>
+
     ![Alt text](image.png)
-    terraform plan
+    <p>terraform plan<p>
+
     ![Alt text](image-1.png)
-    terraform apply
+    <p>terraform apply<p>
+
     ![Alt text](image-2.png)
 ls | novo arquivo foi criado: ‘terraform.tfstate’
 
 Instancia EC2 rodando:
+
 ![Alt text](image-3.png)
+
 Parte 2: Instalando Ansible na EC2
 
 - Conectando na instância EC2 :
