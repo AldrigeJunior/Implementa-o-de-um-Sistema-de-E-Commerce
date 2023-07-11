@@ -24,9 +24,10 @@ Parte 1 : E-commerce MVP deployment
     <p>terraform apply<p>
 
     ![Alt text](image-2.png)
-ls | novo arquivo foi criado: ‘terraform.tfstate’
 
-Instancia EC2 rodando:
+<p>ls | novo arquivo foi criado: ‘terraform.tfstate’<p>
+
+<p>Instancia EC2 rodando:<p>
 
 ![Alt text](image-3.png)
 
@@ -34,9 +35,11 @@ Parte 2: Instalando Ansible na EC2
 
 - Conectando na instância EC2 :
 
-    ssh -i sshkey1.pem ec2-user@ec2-public-ip
+    <p>ssh -i sshkey1.pem ec2-user@ec2-public-ip<p>
+
 ![Alt text](image-4.png)
-- Instalando Ansible na EC2
+
+<p>- Instalando Ansible na EC2<p>
 
 sudo yum-config-manager — enable epel
 sudo yum install ansible -y
