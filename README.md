@@ -5,7 +5,7 @@
 ![Capa](./PORTFOLIOPROJETO_AWSMODULO7_CAPA-220624-162854.png)
 
 ## Descrição do projeto:
-NEm mais um projeto baseado em um cenário do mundo real, atuei como Engenheiro Cloud utilizando DevOps, onde criei e implementei um MVP (Mínimo Produto Viável) de e-Commerce na AWS em menos de 2 horas e de forma automatizada, usando Terraform e Ansible (Infraestrutura como Código — IaC).
+Em mais um projeto baseado em um cenário do mundo real, atuei como Engenheiro Cloud utilizando DevOps, onde criei e implementei um MVP (Mínimo Produto Viável) de e-Commerce na AWS em menos de 2 horas e de forma automatizada, usando Terraform e Ansible (Infraestrutura como Código — IaC).
 
 Fiz o provisionamento da infraestrutura de forma automatizada utilizando Terraform e também utilizei o Ansible para automatizar o processo de gerenciamento de configurações, instalação de softwares e gerenciamento de pacotes da instância EC2. Utilizei também o Magento, PHP, MySQL e o Redis para completar esse projeto.
 
